@@ -1,4 +1,4 @@
-# cypher cracker
+
 import hashlib
 import os
 import urllib.request
